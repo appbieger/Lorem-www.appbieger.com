@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel xmlns:atom="http://www.w3.org/2005/Atom">
+    <title><![CDATA[www.appbieger.com Blog Feed]]></title>
+    <link>https://www.appbieger.com/</link>
+    <description><![CDATA[Blog - ]]></description>
+    <pubDate>Sat, 13 Jan 2018 22:53:07 +0100</pubDate>
+    <generator>Jimdo_Feed</generator>
+    <language>de-de</language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="https://www.appbieger.com/rss/blog" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[iOS Apps programmieren in Wolfsburg]]></title>
+      <link>https://www.appbieger.com/2017/12/13/anmeldung-ios-apps-programmieren/</link>
+      <guid>https://www.appbieger.com/2017/12/13/anmeldung-ios-apps-programmieren/</guid>
+      <description><![CDATA[<?xml version="1.0"?>
+<div id="cc-matrix-2989160094"><div id="cc-m-11038047294" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 50px;">
+    
+</div>
+
+</div><div id="cc-m-11038419594" class="j-module n j-hgrid ">    <div class="cc-m-hgrid-column" style="width: 49%;">
+        <div id="cc-matrix-2989300894"><div id="cc-m-11038419694" class="j-module n j-header "><h2 class="" id="cc-m-header-11038419694">Jeder kann  programmieren</h2></div></div>    </div>
+            <div class="cc-m-hgrid-separator" data-display="cms-only"><div></div></div>
+        <div class="cc-m-hgrid-column last" style="width: 49%;">
+        <div id="cc-matrix-2989300994"><div id="cc-m-11038419294" class="j-module n j-sharebuttons ">
+<div class="cc-sharebuttons-element cc-sharebuttons-size-32 cc-sharebuttons-style-white cc-sharebuttons-design-square cc-sharebuttons-align-right">
+
+
+    <a class="cc-sharebuttons-facebook" href="http://www.facebook.com/sharer.php?u=https://www.appbieger.com/&amp;t=Start" title="Facebook" target="_blank"></a><a class="cc-sharebuttons-twitter" href="http://twitter.com/share?text=Start&amp;url=https%3A%2F%2Fwww.appbieger.com%2F" title="Twitter" target="_blank"></a><a class="cc-sharebuttons-googleplus" href="https://plus.google.com/share?url=https://www.appbieger.com/" title="Google+" target="_blank"></a><a class="cc-sharebuttons-mail" href="mailto:?subject=Start&amp;body=https://www.appbieger.com/" title="E-Mail" target=""></a>
+
+</div>
+</div></div>    </div>
+    
+<div class="cc-m-hgrid-overlay" data-display="cms-only"></div>
+
+<br class="cc-clear"/>
+
+</div><div id="cc-m-11038419094" class="j-module n j-hr ">    <hr/>
+</div><div id="cc-m-11038419894" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 15px;">
+    
+</div>
+
+</div><div id="cc-m-11038024994" class="j-module n j-textWithImage "><figure class="cc-imagewrapper cc-m-image-align-2">
+<img srcset="https://image.jimcdn.com/app/cms/image/transf/dimension=320x1024:format=jpg/path/sb2b647f3a69832da/image/i8e820222681da8f9/version/1513292247/von-der-idee-%C3%BCber-den-code-bis-zur-app.jpg 320w, https://image.jimcdn.com/app/cms/image/transf/dimension=455x1024:format=jpg/path/sb2b647f3a69832da/image/i8e820222681da8f9/version/1513292247/von-der-idee-%C3%BCber-den-code-bis-zur-app.jpg 455w, https://image.jimcdn.com/app/cms/image/transf/dimension=640x1024:format=jpg/path/sb2b647f3a69832da/image/i8e820222681da8f9/version/1513292247/von-der-idee-%C3%BCber-den-code-bis-zur-app.jpg 640w, https://image.jimcdn.com/app/cms/image/transf/dimension=910x1024:format=jpg/path/sb2b647f3a69832da/image/i8e820222681da8f9/version/1513292247/von-der-idee-%C3%BCber-den-code-bis-zur-app.jpg 910w" sizes="(min-width: 455px) 455px, 100vw" id="cc-m-textwithimage-image-11038024994" src="https://image.jimcdn.com/app/cms/image/transf/dimension=455x1024:format=jpg/path/sb2b647f3a69832da/image/i8e820222681da8f9/version/1513292247/von-der-idee-%C3%BCber-den-code-bis-zur-app.jpg" alt="Von der Idee &#xFC;ber den Code bis zur App" class="" data-src-width="5731" data-src-height="3826" data-src="https://image.jimcdn.com/app/cms/image/transf/dimension=455x1024:format=jpg/path/sb2b647f3a69832da/image/i8e820222681da8f9/version/1513292247/von-der-idee-%C3%BCber-den-code-bis-zur-app.jpg" data-image-id="7574139294"/><figcaption style="width: 455px">Von der Idee &#xFC;ber den Code bis zur App</figcaption>    
+
+</figure>
+<div>
+    <div id="cc-m-textwithimage-11038024994" data-name="text" data-action="text" class="cc-m-textwithimage-inline-rte">
+        <p>
+    Als Teil der Initiative &#x201E;Pop- Up- Space Markthalle Wolfsburg&#x201C; wird im Angebot &#x201E;iPhone / iPad Apps programmieren&#x201C; den Jugendlichen das Programmieren von eigenen kleinen Apps vermittelt.
+</p>
+
+<p>
+    &#xA0;
+</p>
+
+<p>
+    Dabei werden die gleichen Werkzeuge benutzt die auch von professionellen Programmierern benutzt werden. Ziel des Angebots ist es, jeden Jugendlichen erfahren zu lassen das er/sie selber f&#xE4;hig
+    ist, eine App zu schreiben. F&#xFC;r alle Jugendlichen wird die neue Sichtweise das Verst&#xE4;ndnis im t&#xE4;gliche Umgang mit dem Handy ver&#xE4;ndern und f&#xFC;r einige kann damit der Grundstein f&#xFC;r eine Berufswahl
+    fallen.
+</p>
+
+<p>
+    Im Vordergrund wird jedoch nicht ein trockener Frontalunterricht stehen, sondern ein spielerischer und produktiver Umgang mit Technologie.
+</p>
+
+<p>
+    &#xA0;
+</p>
+
+<p>
+    Das Angebot findet vom 15.01.2018 bis 15.03.2018 in der <a href="https://www.google.de/maps/place/Jugendzentrum+Haltestelle/@52.4266478,10.7855238,16z/data=!4m12!1m6!3m5!1s0x47af93b4f7374c8b:0x37c8f83158b2865d!2sJugendzentrum+Haltestelle!8m2!3d52.4266478!4d10.7897644!3m4!1s0x47af93b4f7374c8b:0x37c8f83158b2865d!8m2!3d52.4266478!4d10.7897644?dcr=0" target="_blank" title="https://www.google.de/maps/place/Jugendzentrum+Haltestelle/@52.4266478,10.7855238,16z/data=!4m12!1m6!3m5!1s0x47af93b4f7374c8b:0x37c8f83158b2865d!2sJugendzentrum+Haltestelle!8m2!3d52.4266478!4d10.7897644!3m4!1s0x47af93b4f7374c8b:0x37c8f83158b2865d!8m2!3d52.4266478!4d10.7897644?dcr=0">
+    Markthalle in Wolfsburg</a> statt und richtet sich an Jugendliche zwischen 12 und 18 Jahren. Programmierkenntnisse muss keiner der Teilnehmer mitbringen, jedoch ein Apple Laptop (Macbook) auf dem
+    die Programme geschrieben werden.
+</p>
+
+<p>
+    &#xA0;
+</p>    </div>
+</div>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-11038024994">// 
+</script></div><div id="cc-m-11038427694" class="j-module n j-callToAction "><div class="j-calltoaction-wrapper j-calltoaction-align-1">
+    <a class="j-calltoaction-link j-calltoaction-link-style-1" data-action="button" href="/app-wolfsburg/anmelden/" data-title="Jetzt kostenlos anmelden">
+        Jetzt kostenlos anmelden    </a>
+</div>
+</div><div id="cc-m-11037878894" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 103px;">
+    
+</div>
+
+</div><div id="cc-m-11038425994" class="j-module n j-header "><h2 class="" id="cc-m-header-11038425994">Informationsmaterial</h2></div><div id="cc-m-11038426794" class="j-module n j-hr ">    <hr/>
+</div><div id="cc-m-11038428394" class="j-module n j-imageSubtitle "><figure class="cc-imagewrapper cc-m-image-align-1">
+<img srcset="https://image.jimcdn.com/app/cms/image/transf/dimension=312x10000:format=png/path/sb2b647f3a69832da/image/i0f0d3c733b21c8f0/version/1513292968/image.png 312w, https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=png/path/sb2b647f3a69832da/image/i0f0d3c733b21c8f0/version/1513292968/image.png 320w, https://image.jimcdn.com/app/cms/image/transf/dimension=624x10000:format=png/path/sb2b647f3a69832da/image/i0f0d3c733b21c8f0/version/1513292968/image.png 624w" sizes="(min-width: 312px) 312px, 100vw" id="cc-m-imagesubtitle-image-11038428394" src="https://image.jimcdn.com/app/cms/image/transf/dimension=312x10000:format=png/path/sb2b647f3a69832da/image/i0f0d3c733b21c8f0/version/1513292968/image.png" alt="" class="" data-src-width="5731" data-src-height="4133" data-src="https://image.jimcdn.com/app/cms/image/transf/dimension=312x10000:format=png/path/sb2b647f3a69832da/image/i0f0d3c733b21c8f0/version/1513292968/image.png" data-image-id="7574434294"/>    
+
+</figure>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-11038428394">// 
+</script></div><div id="cc-m-11038409294" class="j-module n j-callToAction "><div class="j-calltoaction-wrapper j-calltoaction-align-1">
+    <a class="j-calltoaction-link j-calltoaction-link-style-1" data-action="button" href="https://www.appbieger.com/download/app-wolfsburg/" target="_blank" data-title="Poster Herunterladen">
+        Poster Herunterladen    </a>
+</div>
+</div><div id="cc-m-11038426894" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 56px;">
+    
+</div>
+
+</div><div id="cc-m-11038024294" class="j-module n j-htmlCode "><a href="https://de.freepik.com/fotos-kostenlos/lachelnder-junge-mit-gadget-im-klassenzimmer_1308466.htm">Designed by Freepik</a></div></div>
+]]></description>
+      <pubDate>Wed, 13 Dec 2017 18:14:27 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Resbook]]></title>
+      <link>https://www.appbieger.com/2016/11/16/resbook/</link>
+      <guid>https://www.appbieger.com/2016/11/16/resbook/</guid>
+      <description><![CDATA[<?xml version="1.0"?>
+<div id="cc-matrix-2880690494"><div id="cc-m-10615871694" class="j-module n j-header "><h2 class="" id="cc-m-header-10615871694">Die Restaurant App</h2></div><div id="cc-m-10615871794" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 21px;">
+    
+</div>
+
+</div><div id="cc-m-10981868094" class="j-module n j-hgrid ">    <div class="cc-m-hgrid-column" style="width: 49%;">
+        <div id="cc-matrix-2977935494"><div id="cc-m-10615871994" class="j-module n j-text "><p>
+    &#xA0;
+</p>
+
+<p>
+    Durch <strong>Restbook</strong> bekommt Ihr Restaurant eine eigene App. Ihre neue App zeigt Ihren G&#xE4;sten dann alle Informationen wie &#xD6;ffnungszeiten, Fotos oder Speisekarten an.&#xA0;
+</p>
+
+<p>
+    Doch die Restbook-App zeigt nicht nur passiv alles &#xFC;ber Ihr Restaurant an. Sie liefert durch Push-Mitteilungen auch aktuelle Informationen an Ihre G&#xE4;ste. So bleiben Sie im Ged&#xE4;chtnisse Ihrer
+    G&#xE4;ste und geben neue Impulse Ihr Restaurant zu besuchen.&#xA0;
+</p>
+
+<p>
+    &#xA0;
+</p>
+
+<p>
+    F&#xFC;r Sie als Besitzer ist das Betreiben der App ganz einfach. Alle Inhalte wie &#xD6;ffnungszeiten, Fotos oder Neuigkeiten kommen direkt von Facebook. Sie pflegen Ihre Facebook-Seite wie gewohnt und
+    Ihre App informiert Ihre G&#xE4;ste ohne dass Sie auch nur einen Handschlag mehr tun m&#xFC;ssen.
+</p>
+
+<p>
+    &#xA0;
+</p>
+
+<p>
+    <a href="https://www.restbook-app.com" target="_blank" title="https://www.restbook-app.com">https://www.restbook-app.com</a>
+</p>
+
+<p>
+    &#xA0;
+</p></div></div>    </div>
+            <div class="cc-m-hgrid-separator" data-display="cms-only"><div></div></div>
+        <div class="cc-m-hgrid-column last" style="width: 49%;">
+        <div id="cc-matrix-2977935594"><div id="cc-m-10981860494" class="j-module n j-gallery "><div id="cc-m-gallery-10981860494" class="cc-m-gallery-container            cc-m-gallery-slider                        cc-m-gallery-slider-fullscreen-enabled           ">
+        <ul>
+                    <li>
+                
+
+        <a rel="lightbox[10981860494]" href="javascript:" data-href="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/id8800d937954d9ae/version/1502894784/image.png" data-title="">
+        <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/id8800d937954d9ae/version/1502894784/image.png" data-orig-width="919" data-orig-height="1855" alt=""/>
+</a>            </li>
+                    <li>
+                
+
+        <a rel="lightbox[10981860494]" href="javascript:" data-href="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i3e0a204862b720a0/version/1502894794/image.png" data-title="">
+        <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i3e0a204862b720a0/version/1502894794/image.png" data-orig-width="919" data-orig-height="1774" alt=""/>
+</a>            </li>
+                    <li>
+                
+
+        <a rel="lightbox[10981860494]" href="javascript:" data-href="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i81f5984b2e11430f/version/1502894794/image.png" data-title="">
+        <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i81f5984b2e11430f/version/1502894794/image.png" data-orig-width="919" data-orig-height="1774" alt=""/>
+</a>            </li>
+                    <li>
+                
+
+        <a rel="lightbox[10981860494]" href="javascript:" data-href="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i98c25cf72ba86c58/version/1502894789/image.png" data-title="">
+        <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i98c25cf72ba86c58/version/1502894789/image.png" data-orig-width="919" data-orig-height="1855" alt=""/>
+</a>            </li>
+                    <li>
+                
+
+        <a rel="lightbox[10981860494]" href="javascript:" data-href="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/ia8f6537e5de89505/version/1502894784/image.png" data-title="">
+        <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/ia8f6537e5de89505/version/1502894784/image.png" data-orig-width="919" data-orig-height="1774" alt=""/>
+</a>            </li>
+                    <li>
+                
+
+        <a rel="lightbox[10981860494]" href="javascript:" data-href="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i874ace0b331ee980/version/1502894784/image.png" data-title="">
+        <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i874ace0b331ee980/version/1502894784/image.png" data-orig-width="919" data-orig-height="1774" alt=""/>
+</a>            </li>
+            </ul>
+
+            <div class="cc-m-gallery-slider-bar">
+            <div class="cc-m-gallery-slider-thumbnails-wrapper">
+                <div class="cc-m-gallery-slider-thumbnails">
+                                            <a data-slide-index="0" href="">
+                            <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=25x25:mode=crop:format=png/path/sb2b647f3a69832da/image/id8800d937954d9ae/version/1502894784/image.png" alt=""/>
+                        </a>
+                                                <a data-slide-index="1" href="">
+                            <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=25x25:mode=crop:format=png/path/sb2b647f3a69832da/image/i3e0a204862b720a0/version/1502894794/image.png" alt=""/>
+                        </a>
+                                                <a data-slide-index="2" href="">
+                            <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=25x25:mode=crop:format=png/path/sb2b647f3a69832da/image/i81f5984b2e11430f/version/1502894794/image.png" alt=""/>
+                        </a>
+                                                <a data-slide-index="3" href="">
+                            <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=25x25:mode=crop:format=png/path/sb2b647f3a69832da/image/i98c25cf72ba86c58/version/1502894789/image.png" alt=""/>
+                        </a>
+                                                <a data-slide-index="4" href="">
+                            <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=25x25:mode=crop:format=png/path/sb2b647f3a69832da/image/ia8f6537e5de89505/version/1502894784/image.png" alt=""/>
+                        </a>
+                                                <a data-slide-index="5" href="">
+                            <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=25x25:mode=crop:format=png/path/sb2b647f3a69832da/image/i874ace0b331ee980/version/1502894784/image.png" alt=""/>
+                        </a>
+                                        </div>
+            </div>
+        </div>
+    
+        <a href="javascript:" class="cc-m-gallery-slider-fullscreen              "></a>
+    
+
+</div>
+<script id="cc-m-reg-10981860494">// 
+</script></div></div>    </div>
+    
+<div class="cc-m-hgrid-overlay" data-display="cms-only"></div>
+
+<br class="cc-clear"/>
+
+</div><div id="cc-m-10615872194" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div><div id="cc-m-10981859794" class="j-module n j-hgrid ">    <div class="cc-m-hgrid-column" style="width: 49%;">
+        <div id="cc-matrix-2977933594"><div id="cc-m-10981859294" class="j-module n j-imageSubtitle "><figure class="cc-imagewrapper cc-m-image-align-2">
+<a href="https://play.google.com/store/apps/details?id=com.appbieger.restbook.restbook&amp;hl=de" target="_blank"><img srcset="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/ia1302f022be981dc/version/1502894484/image.png 190w" sizes="(min-width: 190px) 190px, 100vw" id="cc-m-imagesubtitle-image-10981859294" src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/ia1302f022be981dc/version/1502894484/image.png" alt="" class="" data-src-width="190" data-src-height="56" data-src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/ia1302f022be981dc/version/1502894484/image.png" data-image-id="7518453494"/></a>    
+
+</figure>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-10981859294">// 
+</script></div></div>    </div>
+            <div class="cc-m-hgrid-separator" data-display="cms-only"><div></div></div>
+        <div class="cc-m-hgrid-column last" style="width: 49%;">
+        <div id="cc-matrix-2977933694"><div id="cc-m-10615872094" class="j-module n j-imageSubtitle "><figure class="cc-imagewrapper cc-m-image-align-1">
+<a href="https://itunes.apple.com/de/app/restbook/id1176523628" target="_blank"><img srcset="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/id5827e80cfb22948/version/1502894481/image.png 190w" sizes="(min-width: 190px) 190px, 100vw" id="cc-m-imagesubtitle-image-10615872094" src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/id5827e80cfb22948/version/1502894481/image.png" alt="" class="" data-src-width="190" data-src-height="56" data-src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/id5827e80cfb22948/version/1502894481/image.png" data-image-id="7311572194"/></a>    
+
+</figure>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-10615872094">// 
+</script></div></div>    </div>
+    
+<div class="cc-m-hgrid-overlay" data-display="cms-only"></div>
+
+<br class="cc-clear"/>
+
+</div><div id="cc-m-10615872294" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div></div>
+]]></description>
+      <pubDate>Wed, 16 Nov 2016 11:40:00 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[RetailBee]]></title>
+      <link>https://www.appbieger.com/2016/08/24/retailbee/</link>
+      <guid>https://www.appbieger.com/2016/08/24/retailbee/</guid>
+      <description><![CDATA[<?xml version="1.0"?>
+<div id="cc-matrix-2787482794"><div id="cc-m-10382060694" class="j-module n j-header "><h2 class="" id="cc-m-header-10382060694">Das erste Local-Shoppingnetwork</h2></div><div id="cc-m-10382060794" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 50px;">
+    
+</div>
+
+</div><div id="cc-m-10382501094" class="j-module n j-imageSubtitle "><figure class="cc-imagewrapper cc-m-image-align-1 cc-m-width-maxed">
+<img srcset="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sb2b647f3a69832da/image/i93b0581dfb63c944/version/1472041825/image.jpg 320w, https://image.jimcdn.com/app/cms/image/transf/dimension=640x10000:format=jpg/path/sb2b647f3a69832da/image/i93b0581dfb63c944/version/1472041825/image.jpg 640w, https://image.jimcdn.com/app/cms/image/transf/dimension=910x10000:format=jpg/path/sb2b647f3a69832da/image/i93b0581dfb63c944/version/1472041825/image.jpg 910w, https://image.jimcdn.com/app/cms/image/transf/dimension=960x10000:format=jpg/path/sb2b647f3a69832da/image/i93b0581dfb63c944/version/1472041825/image.jpg 960w, https://image.jimcdn.com/app/cms/image/transf/dimension=1280x10000:format=jpg/path/sb2b647f3a69832da/image/i93b0581dfb63c944/version/1472041825/image.jpg 1280w, https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i93b0581dfb63c944/version/1472041825/image.jpg 1600w" sizes="(min-width: 910px) 910px, 100vw" id="cc-m-imagesubtitle-image-10382501094" src="https://image.jimcdn.com/app/cms/image/transf/dimension=910x10000:format=jpg/path/sb2b647f3a69832da/image/i93b0581dfb63c944/version/1472041825/image.jpg" alt="" class="" data-src-width="1600" data-src-height="840" data-src="https://image.jimcdn.com/app/cms/image/transf/dimension=910x10000:format=jpg/path/sb2b647f3a69832da/image/i93b0581dfb63c944/version/1472041825/image.jpg" data-image-id="7194812394"/>    
+
+</figure>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-10382501094">// 
+</script></div><div id="cc-m-10382502994" class="j-module n j-text "><p>
+    &#xA0;
+</p>
+
+<p>
+    Aus der Idee eines Local-Shoppingnetworks ist meine iOS App&#xA0;<strong>RetailBee</strong>&#xA0;entstanden<strong>.</strong>&#xA0;Die App steht seit Juli 2016 im Apple App Store zum Download zur
+    Verf&#xFC;gung.
+</p>
+
+<p>
+    &#xA0;
+</p></div><div id="cc-m-10397557194" class="j-module n j-hgrid ">    <div class="cc-m-hgrid-column" style="width: 49%;">
+        <div id="cc-matrix-2792703994"><div id="cc-m-10397556494" class="j-module n j-callToAction "><div class="j-calltoaction-wrapper j-calltoaction-align-1">
+    <a class="j-calltoaction-link j-calltoaction-link-style-1" data-action="button" href="http://www.retailbee.net/" target="_blank" data-title="Mehr unter www.retailbee.net">
+        Mehr unter www.retailbee.net    </a>
+</div>
+</div></div>    </div>
+            <div class="cc-m-hgrid-separator" data-display="cms-only"><div></div></div>
+        <div class="cc-m-hgrid-column last" style="width: 49%;">
+        <div id="cc-matrix-2792704094"><div id="cc-m-10397560894" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 5px;">
+    
+</div>
+
+</div><div id="cc-m-10397559394" class="j-module n j-imageSubtitle "><figure class="cc-imagewrapper cc-m-image-align-2">
+<a href="https://itunes.apple.com/de/app/retailbee/id952740503" target="_blank"><img srcset="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i8ac0dac6a692a90b/version/1472487297/image.png 135w" sizes="(min-width: 135px) 135px, 100vw" id="cc-m-imagesubtitle-image-10397559394" src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i8ac0dac6a692a90b/version/1472487297/image.png" alt="" class="" data-src-width="135" data-src-height="40" data-src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i8ac0dac6a692a90b/version/1472487297/image.png" data-image-id="7201214094"/></a>    
+
+</figure>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-10397559394">// 
+</script></div></div>    </div>
+    
+<div class="cc-m-hgrid-overlay" data-display="cms-only"></div>
+
+<br class="cc-clear"/>
+
+</div><div id="cc-m-10382061194" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div><div id="cc-m-10382061294" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div></div>
+]]></description>
+      <pubDate>Wed, 27 Jul 2016 12:42:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DSL-Doktor]]></title>
+      <link>https://www.appbieger.com/2016/08/24/dsl-doktor/</link>
+      <guid>https://www.appbieger.com/2016/08/24/dsl-doktor/</guid>
+      <description><![CDATA[<?xml version="1.0"?>
+<div id="cc-matrix-2787447794"><div id="cc-m-10381974894" class="j-module n j-header "><h2 class="" id="cc-m-header-10381974894">Hilft bei der Optimierung deines DSL-Anschlusses</h2></div><div id="cc-m-10381974994" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 50px;">
+    
+</div>
+
+</div><div id="cc-m-10381978394" class="j-module n j-text "><p style="margin-bottom: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+    Mit dieser App k&#xF6;nnen Sie Ihren DSL-Anschluss optimieren.
+</p>
+
+<p style="margin-bottom: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+    Die App verbindet sich mit Ihrer FritzBox und zeigt Ihnen die aktuelle sowie die maximal m&#xF6;gliche Internetgeschwindigkeit Ihrer DSL-Leitung an. Dabei handelt es sich um die tats&#xE4;chliche maximal
+    erreichbare Geschwindigkeit, die oftmals von den Angaben des Providers abweicht.
+</p>
+
+<p style="margin-bottom: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+    Zus&#xE4;tzlich erhalten Sie eine Empfehlung wie Sie Ihren DSL-Anschluss optimal auf Ihre pers&#xF6;nlichen Bed&#xFC;rfnisse abstimmen k&#xF6;nnen.
+</p>
+
+<p style="margin-bottom: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+    Bitte beachten Sie das der DSL-Doktor nur an DSL Anschl&#xFC;ssen an den die FritzBox direkt an der DSL Leitung angeschlossen ist funtioniert. In f&#xE4;llen in den die Internetverbindung &#xFC;ber ein
+    Kabelmodem realisiert wird (z.B. bei Kabel Deutschland und anderen Kabelanschl&#xFC;ssen) kann der DSL-Doktor keine Werte messen.
+</p>
+
+<p style="margin-bottom: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+    Die in der App angezeigten Daten werden auch auf der Weboberfl&#xE4;che der FritzBox angezeigt. Die App zeigt Sie jedoch verst&#xE4;ndlicher an und gibt eine Empfehlung wie Sie optimieren k&#xF6;nnen.
+</p>
+
+<p>
+    &#xA0;
+</p>
+
+<p style="margin-bottom: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+    Der Support f&#xFC;r die App wurde in Oktober 2014 eingestellt.
+</p></div><div id="cc-m-10381975194" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div><div id="cc-m-10381975394" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div><div id="cc-m-10381975494" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div></div>
+]]></description>
+      <pubDate>Fri, 24 Oct 2014 12:14:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DSL-Monitor iOS]]></title>
+      <link>https://www.appbieger.com/2016/08/24/dsl-monitor-ios/</link>
+      <guid>https://www.appbieger.com/2016/08/24/dsl-monitor-ios/</guid>
+      <description><![CDATA[<?xml version="1.0"?>
+<div id="cc-matrix-2787442494"><div id="cc-m-10381962194" class="j-module n j-header "><h2 class="" id="cc-m-header-10381962194">Auslastung der DSL-Leitung mit iOS</h2></div><div id="cc-m-10381962294" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 50px;">
+    
+</div>
+
+</div><div id="cc-m-10381962394" class="j-module n j-textWithImage "><figure class="cc-imagewrapper cc-m-image-align-2">
+<img srcset="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i9b94ac631ab45d56/version/1472033562/image.png 300w" sizes="(min-width: 300px) 300px, 100vw" id="cc-m-textwithimage-image-10381962394" src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i9b94ac631ab45d56/version/1472033562/image.png" alt="" class="" data-src-width="300" data-src-height="300" data-src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i9b94ac631ab45d56/version/1472033562/image.png" data-image-id="7194491594"/>    
+
+</figure>
+<div>
+    <div id="cc-m-textwithimage-10381962394" data-name="text" data-action="text" class="cc-m-textwithimage-inline-rte">
+        <p>
+    Mit dieser App ist die Auslastung der DSL-Leitung nun auf einen Blick auf Ihrem iPhone oder iPad sichtbar.
+</p>
+
+<p>
+    &#xA0;
+</p>
+
+<p>
+    Bitte beachten Sie das der DSL-Monitor nur an DSL Anschl&#xFC;ssen an den die FritzBox direkt an der DSL Leitung angeschlossen ist funktioniert. In f&#xE4;llen in den die Internetverbindung &#xFC;ber ein
+    Kabelmodem realisiert wird (z.B. bei Kabel Deutschland) kann der DSL-Monitor keine Werte messen.
+</p>
+
+<p>
+    &#xA0;
+</p>
+
+<p>
+    M&#xF6;chten Sie helfen die App zu verbessern? Sagen Sie uns Ihre Meinung
+</p>
+
+<p style="margin-bottom: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+    &#xA0;
+</p>    </div>
+</div>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-10381962394">// 
+</script></div><div id="cc-m-10381962494" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div><div id="cc-m-10381962594" class="j-module n j-imageSubtitle "><figure class="cc-imagewrapper cc-m-image-align-1">
+<a href="https://itunes.apple.com/us/app/dsl-monitor/id569533344?mt=8&amp;uo=6&amp;at=&amp;ct=" target="_blank"><img srcset="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/idcef775b62ff4a8e/version/1472033531/image.png 135w" sizes="(min-width: 135px) 135px, 100vw" id="cc-m-imagesubtitle-image-10381962594" src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/idcef775b62ff4a8e/version/1472033531/image.png" alt="" class="" data-src-width="135" data-src-height="40" data-src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/idcef775b62ff4a8e/version/1472033531/image.png" data-image-id="7194491694"/></a>    
+
+</figure>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-10381962594">// 
+</script></div><div id="cc-m-10381962694" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div><div id="cc-m-10381962794" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div></div>
+]]></description>
+      <pubDate>Fri, 03 Jan 2014 12:11:00 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[DSL-Monitor macOS]]></title>
+      <link>https://www.appbieger.com/2016/08/24/dsl-monitor-macos/</link>
+      <guid>https://www.appbieger.com/2016/08/24/dsl-monitor-macos/</guid>
+      <description><![CDATA[<?xml version="1.0"?>
+<div id="cc-matrix-2787432394"><div id="cc-m-10381936994" class="j-module n j-header "><h2 class="" id="cc-m-header-10381936994">Zeigt die DSL-Auslastung in der macOS Menu Bar</h2></div><div id="cc-m-10381937094" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 50px;">
+    
+</div>
+
+</div><div id="cc-m-10381937194" class="j-module n j-textWithImage "><figure class="cc-imagewrapper cc-m-image-align-2">
+<img srcset="https://image.jimcdn.com/app/cms/image/transf/dimension=300x1024:format=png/path/sb2b647f3a69832da/image/i23c0394a741070d9/version/1472033126/image.png 300w, https://image.jimcdn.com/app/cms/image/transf/dimension=320x1024:format=png/path/sb2b647f3a69832da/image/i23c0394a741070d9/version/1472033126/image.png 320w, https://image.jimcdn.com/app/cms/image/transf/dimension=600x1024:format=png/path/sb2b647f3a69832da/image/i23c0394a741070d9/version/1472033126/image.png 600w" sizes="(min-width: 300px) 300px, 100vw" id="cc-m-textwithimage-image-10381937194" src="https://image.jimcdn.com/app/cms/image/transf/dimension=300x1024:format=png/path/sb2b647f3a69832da/image/i23c0394a741070d9/version/1472033126/image.png" alt="" class="" data-src-width="1144" data-src-height="600" data-src="https://image.jimcdn.com/app/cms/image/transf/dimension=300x1024:format=png/path/sb2b647f3a69832da/image/i23c0394a741070d9/version/1472033126/image.png" data-image-id="7194476894"/>    
+
+</figure>
+<div>
+    <div id="cc-m-textwithimage-10381937194" data-name="text" data-action="text" class="cc-m-textwithimage-inline-rte">
+        <p>
+    Mit dieser App ist die Auslastung der DSL-Leitung nun auf einen Blick auf Ihrem Mac sichtbar.
+</p>
+
+<p>
+    &#xA0;
+</p>
+
+<p>
+    Bitte beachten Sie das der FritzMonitor nur an DSL Anschl&#xFC;ssen an den die FritzBox direkt an der DSL Leitung angeschlossen ist funktioniert. In f&#xE4;llen in den die Internetverbindung &#xFC;ber ein
+    Kabelmodem realisiert wird (z.B. bei Kabel Deutschland) kann der DSL-Monitor keine Werte messen.
+</p>
+
+<p>
+    &#xA0;
+</p>
+
+<p>
+    M&#xF6;chten Sie helfen die App zu verbessern?&#xA0;<a href="http://goo.gl/forms/DXxPLEIhe8" target="_blank" style="color: #1984dd; text-decoration: none; transition: all 0.2s ease; -webkit-transition: all 0.2s ease; outline: none;">Sagen Sie uns Ihre Meinung</a>
+</p>
+
+<p style="margin-bottom: 20px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+    &#xA0;
+</p>    </div>
+</div>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-10381937194">// 
+</script></div><div id="cc-m-10381937294" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div><div id="cc-m-10381949694" class="j-module n j-imageSubtitle "><figure class="cc-imagewrapper cc-m-image-align-1">
+<a href="https://itunes.apple.com/us/app/dsl-monitor/id526404785?mt=12&amp;uo=6&amp;at=&amp;ct=" target="_blank"><img srcset="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/ifaec38f9c05096c2/version/1472033384/image.png 135w" sizes="(min-width: 135px) 135px, 100vw" id="cc-m-imagesubtitle-image-10381949694" src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/ifaec38f9c05096c2/version/1472033384/image.png" alt="" class="" data-src-width="135" data-src-height="40" data-src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/ifaec38f9c05096c2/version/1472033384/image.png" data-image-id="7194479994"/></a>    
+
+</figure>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-10381949694">// 
+</script></div><div id="cc-m-10381937394" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div><div id="cc-m-10381937494" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div></div>
+]]></description>
+      <pubDate>Thu, 12 Sep 2013 12:03:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Programmieren in der Schule]]></title>
+      <link>https://www.appbieger.com/2013/08/24/programmieren-in-der-schule/</link>
+      <guid>https://www.appbieger.com/2013/08/24/programmieren-in-der-schule/</guid>
+      <description><![CDATA[<?xml version="1.0"?>
+<div id="cc-matrix-2787394394"><div id="cc-m-10381858494" class="j-module n j-header "><h2 class="" id="cc-m-header-10381858494">Lernen um zu verstehen</h2></div><div id="cc-m-10381880294" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 50px;">
+    
+</div>
+
+</div><div id="cc-m-10381877294" class="j-module n j-textWithImage "><figure class="cc-imagewrapper cc-m-image-align-2">
+<img srcset="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i699968c8b1e0a106/version/1472032208/image.png 300w" sizes="(min-width: 300px) 300px, 100vw" id="cc-m-textwithimage-image-10381877294" src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i699968c8b1e0a106/version/1472032208/image.png" alt="" class="" data-src-width="300" data-src-height="254" data-src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/i699968c8b1e0a106/version/1472032208/image.png" data-image-id="7194454794"/>    
+
+</figure>
+<div>
+    <div id="cc-m-textwithimage-10381877294" data-name="text" data-action="text" class="cc-m-textwithimage-inline-rte">
+        <p>
+    In der Schul-AG &#x201E;iPhone / iPad programmieren&#x201C; wird den Sch&#xFC;ler/innen das Programmieren von eigenen kleinen Apps vermittelt. Dabei werden die gleichen Werkzeuge benutzt die auch von
+    professionellen Programmierern benutzt werden. Ziel der Schul-AG ist es, jeden Sch&#xFC;ler erfahren zu lassen das er/sie selber f&#xE4;hig ist, eine App zu schreiben. F&#xFC;r alle Sch&#xFC;ler/innen wird die neue
+    Sichtweise das Verst&#xE4;ndnis im t&#xE4;gliche Umgang mit dem Handy ver&#xE4;ndern und f&#xFC;r einige kann damit der Grundstein f&#xFC;r eine Berufswahl fallen. Im Vordergrund soll jedoch nicht ein trockener
+    Frontalunterricht stehen, sondern ein spielerischer und produktiver Umgang mit Technologie. Die Schul-AG findet ab August 2013 am&#xA0;Gymnasium Harsefeld &#x201E;Aue-Geest&#x201C;&#xA0;statt. Fragen
+    beantworte ich gerne jederzeit unter&#xA0;stephan@appbieger.com.
+</p>    </div>
+</div>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-10381877294">// 
+</script></div><div id="cc-m-10381858694" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div><div id="cc-m-10381858894" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div><div id="cc-m-10381859594" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div></div>
+]]></description>
+      <pubDate>Sat, 24 Aug 2013 11:43:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Lernen auf Rädern]]></title>
+      <link>https://www.appbieger.com/2012/05/14/lernen-auf-r%C3%A4dern/</link>
+      <guid>https://www.appbieger.com/2012/05/14/lernen-auf-r%C3%A4dern/</guid>
+      <description><![CDATA[<?xml version="1.0"?>
+<div id="cc-matrix-2787411494"><div id="cc-m-10381888494" class="j-module n j-header "><h2 class="" id="cc-m-header-10381888494">Mobiles lernen f&#xFC;r Berufskraftfahrer</h2></div><div id="cc-m-10381888594" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 50px;">
+    
+</div>
+
+</div><div id="cc-m-10381888694" class="j-module n j-textWithImage "><figure class="cc-imagewrapper cc-m-image-align-2">
+<img srcset="https://image.jimcdn.com/app/cms/image/transf/dimension=300x1024:format=jpg/path/sb2b647f3a69832da/image/ia871433020fe5da8/version/1472032680/image.jpg 300w, https://image.jimcdn.com/app/cms/image/transf/dimension=320x1024:format=jpg/path/sb2b647f3a69832da/image/ia871433020fe5da8/version/1472032680/image.jpg 320w, https://image.jimcdn.com/app/cms/image/transf/dimension=600x1024:format=jpg/path/sb2b647f3a69832da/image/ia871433020fe5da8/version/1472032680/image.jpg 600w" sizes="(min-width: 300px) 300px, 100vw" id="cc-m-textwithimage-image-10381888694" src="https://image.jimcdn.com/app/cms/image/transf/dimension=300x1024:format=jpg/path/sb2b647f3a69832da/image/ia871433020fe5da8/version/1472032680/image.jpg" alt="" class="" data-src-width="3743" data-src-height="2816" data-src="https://image.jimcdn.com/app/cms/image/transf/dimension=300x1024:format=jpg/path/sb2b647f3a69832da/image/ia871433020fe5da8/version/1472032680/image.jpg" data-image-id="7194460694"/>    
+
+</figure>
+<div>
+    <div id="cc-m-textwithimage-10381888694" data-name="text" data-action="text" class="cc-m-textwithimage-inline-rte">
+        <p>
+    Mobiles lernen ist f&#xFC;r Berufskraftfahrer eine neue Form sich weiterzubilden. In diesem Projekt werden Berufskraftfahrer mit iPad&#x2019;s ausgestattet die es Ihnen erm&#xF6;glicht in den Pufferzeiten
+    weiterzubilden.
+</p>
+
+<p>
+    &#xA0;
+</p>
+
+<p>
+    Er wurde darauf geachte das das Lehrmaterial mit unterhaltsamen&#xA0;Videobeit&#xE4;gen&#xA0;beginnen und dann in den iBooks ansprechend Illustriert vertieft werden.
+</p>
+
+<p>
+    Das Lehrmaterial umfasst 16 iBooks in drei Serien und kann vom Berufskraftfahrer jederzeit offline abgerufen werden.
+</p>
+
+<p>
+    &#xA0;
+</p>
+
+<p>
+    Das Projekt befindet sich in der Feldtestphase. Sollten Sie sich f&#xFC;r das Thema Mobiles Lernen interessieren w&#xFC;rde ich mich &#xFC;ber ein Feedback von Ihnen freuen.Mobiles lernen ist f&#xFC;r
+    Berufskraftfahrer eine neue Form sich weiterzubilden. In diesem Projekt werden Berufskraftfahrer mit iPad&#x2019;s ausgestattet die es Ihnen erm&#xF6;glicht in den Pufferzeiten weiterzubilden.
+</p>    </div>
+</div>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-10381888694">// 
+</script></div><div id="cc-m-10381888794" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div><div id="cc-m-10381888894" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div><div id="cc-m-10381888994" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div></div>
+]]></description>
+      <pubDate>Mon, 14 May 2012 11:53:00 +0200</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Agnes Nickel]]></title>
+      <link>https://www.appbieger.com/2016/08/24/agnes-nickel/</link>
+      <guid>https://www.appbieger.com/2016/08/24/agnes-nickel/</guid>
+      <description><![CDATA[<?xml version="1.0"?>
+<div id="cc-matrix-2787429794"><div id="cc-m-10381929494" class="j-module n j-header "><h2 class="" id="cc-m-header-10381929494">Fotos machen kann ja jeder ... k&#xF6;nnte man meinen!</h2></div><div id="cc-m-10381929594" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 50px;">
+    
+</div>
+
+</div><div id="cc-m-10381929694" class="j-module n j-textWithImage "><figure class="cc-imagewrapper cc-m-image-align-2">
+<img srcset="https://image.jimcdn.com/app/cms/image/transf/dimension=300x1024:format=png/path/sb2b647f3a69832da/image/if160f50a34b8a0b1/version/1472032896/image.png 300w, https://image.jimcdn.com/app/cms/image/transf/dimension=320x1024:format=png/path/sb2b647f3a69832da/image/if160f50a34b8a0b1/version/1472032896/image.png 320w, https://image.jimcdn.com/app/cms/image/transf/dimension=600x1024:format=png/path/sb2b647f3a69832da/image/if160f50a34b8a0b1/version/1472032896/image.png 600w" sizes="(min-width: 300px) 300px, 100vw" id="cc-m-textwithimage-image-10381929694" src="https://image.jimcdn.com/app/cms/image/transf/dimension=300x1024:format=png/path/sb2b647f3a69832da/image/if160f50a34b8a0b1/version/1472032896/image.png" alt="" class="" data-src-width="971" data-src-height="596" data-src="https://image.jimcdn.com/app/cms/image/transf/dimension=300x1024:format=png/path/sb2b647f3a69832da/image/if160f50a34b8a0b1/version/1472032896/image.png" data-image-id="7194473594"/>    
+
+</figure>
+<div>
+    <div id="cc-m-textwithimage-10381929694" data-name="text" data-action="text" class="cc-m-textwithimage-inline-rte">
+        <p>
+    Schaut man sich aber die Fotos von Agnes Nickel an, bemerkt man nicht nur, dass sie ihr Handwerk versteht, sondern auch ihre Kreativit&#xE4;t und ihr Talent das Model gekonnt in Szene zu setzen.
+</p>
+
+<p>
+    Das Aush&#xE4;ngeschild eines Fotografens ist seine Homepage. Deshalb ist eine professionelle Homepage, schon ab Tag der Gr&#xFC;ndung, wichtig. Agnes Nickel beauftragte mich eine Homepage mit
+    ansprechendem Design zu entwickeln. Des weiteren ben&#xF6;tigte sie eine M&#xF6;glichkeit schnell und unkompliziert die eigenen Fotos in ihrer Fotogalerie zu ver&#xF6;ffentlichen.
+</p>
+
+<p>
+    Ein Blick auf die Homepage verr&#xE4;t ein wenig mehr&#xA0;www.agnes-nickel.de<a title="Fotostudio Harsefeld" href="http://www.agnes-nickel.de/" target="_blank" style="color: #333333; text-decoration: none; transition: all 0.2s ease; -webkit-transition: all 0.2s ease;"></a>
+</p>    </div>
+</div>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-10381929694">// 
+</script></div><div id="cc-m-10381929794" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div><div id="cc-m-10381929894" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div><div id="cc-m-10381929994" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div></div>
+]]></description>
+      <pubDate>Tue, 11 Dec 2001 12:01:00 +0100</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Currenza Airport]]></title>
+      <link>https://www.appbieger.com/2000/03/08/currenza-airport/</link>
+      <guid>https://www.appbieger.com/2000/03/08/currenza-airport/</guid>
+      <description><![CDATA[<?xml version="1.0"?>
+<div id="cc-matrix-2787428794"><div id="cc-m-10381924294" class="j-module n j-header "><h2 class="" id="cc-m-header-10381924294">Lernen um zu verstehen</h2></div><div id="cc-m-10381924394" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 50px;">
+    
+</div>
+
+</div><div id="cc-m-10381924494" class="j-module n j-textWithImage "><figure class="cc-imagewrapper cc-m-image-align-2">
+<img srcset="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/ia37f7bd2bcc35e15/version/1472032819/image.png 300w" sizes="(min-width: 300px) 300px, 100vw" id="cc-m-textwithimage-image-10381924494" src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/ia37f7bd2bcc35e15/version/1472032819/image.png" alt="" class="" data-src-width="300" data-src-height="75" data-src="https://image.jimcdn.com/app/cms/image/transf/none/path/sb2b647f3a69832da/image/ia37f7bd2bcc35e15/version/1472032819/image.png" data-image-id="7194472494"/>    
+
+</figure>
+<div>
+    <div id="cc-m-textwithimage-10381924494" data-name="text" data-action="text" class="cc-m-textwithimage-inline-rte">
+        <p>
+    Der Currenua Aiport ist eine low-cost Funkschnittstelle zwischen Getr&#xE4;nkeautomat und Automatenbetreiben. In meiner Funktion als Produktmanager kam mir die Idee.
+</p>
+
+<p>
+    Hard und Software wurde 2007 von mir f&#xFC;r NRI in Buxtehude entwickelt und wird bis heute vertriben.
+</p>
+
+<p>
+    Du kannst dich unter :http://www.c2-airport.com/&#xA0;&#xFC;ber den Currenza Airport erkundigen.
+</p>    </div>
+</div>
+
+<div class="cc-clear"></div>
+<script id="cc-m-reg-10381924494">// 
+</script></div><div id="cc-m-10381924594" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div><div id="cc-m-10381924694" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div><div id="cc-m-10381924794" class="j-module n j-spacing ">
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+</div></div>
+]]></description>
+      <pubDate>Wed, 08 Mar 2000 11:59:00 +0100</pubDate>
+    </item>
+  </channel>
+</rss>
